@@ -11,7 +11,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Instructions
 
-1. Clone the project repository: `git clone https://github.com/GinaSierra/.git`
+1. Clone the project repository: `git clone https://github.com/GinaSierra/SystemMonitor`
 
 2. Build the project: `make build`
 
